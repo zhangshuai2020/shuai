@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Where Story Begins Again</title>
   
-  
+  <subtitle>Blog is space</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zhangshuai2020.github.io/"/>
-  <updated>2019-08-28T16:29:24.950Z</updated>
+  <updated>2019-09-01T15:57:28.707Z</updated>
   <id>http://zhangshuai2020.github.io/</id>
   
   <author>
@@ -15,6 +15,95 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://zhangshuai2020.github.io/2019/09/01/hello-world/"/>
+    <id>http://zhangshuai2020.github.io/2019/09/01/hello-world/</id>
+    <published>2019-09-01T15:57:28.706Z</published>
+    <updated>2019-09-01T15:57:28.707Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Research Understanding</title>
+    <link href="http://zhangshuai2020.github.io/2019/09/01/Research-Understanding/"/>
+    <id>http://zhangshuai2020.github.io/2019/09/01/Research-Understanding/</id>
+    <published>2019-09-01T08:56:18.000Z</published>
+    <updated>2019-09-01T15:57:28.705Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Research-Understanding"><a href="#Research-Understanding" class="headerlink" title="Research Understanding"></a>Research Understanding</h1><p>This volume we are discussing things about research, how to see it and how to do it.</p><h2 id="Impact-factor-and-JCR-sections"><a href="#Impact-factor-and-JCR-sections" class="headerlink" title="Impact factor and JCR sections"></a>Impact factor and JCR sections</h2><h2 id="General-procedure-for-paper-review"><a href="#General-procedure-for-paper-review" class="headerlink" title="General procedure for paper review"></a>General procedure for paper review</h2><h2 id="Why-research-paper-Why-publish"><a href="#Why-research-paper-Why-publish" class="headerlink" title="Why research paper|Why publish"></a>Why research paper|Why publish</h2><h3 id="Convey-of-research-outcome"><a href="#Convey-of-research-outcome" class="headerlink" title="Convey of research outcome"></a>Convey of research outcome</h3><h3 id="Make-thoughts-clear-and-organized"><a href="#Make-thoughts-clear-and-organized" class="headerlink" title="Make thoughts clear and organized"></a>Make thoughts clear and organized</h3><h3 id="Paper-as-an-index"><a href="#Paper-as-an-index" class="headerlink" title="Paper as an index"></a>Paper as an index</h3><h2 id="Method-for-research-and-paper-writing"><a href="#Method-for-research-and-paper-writing" class="headerlink" title="Method for research and paper writing"></a>Method for research and paper writing</h2><h2 id="Research-and-professors"><a href="#Research-and-professors" class="headerlink" title="Research and professors"></a>Research and professors</h2><h2 id="Practical-guide"><a href="#Practical-guide" class="headerlink" title="Practical guide"></a>Practical guide</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Research-Understanding&quot;&gt;&lt;a href=&quot;#Research-Understanding&quot; class=&quot;headerlink&quot; title=&quot;Research Understanding&quot;&gt;&lt;/a&gt;Research Understandi
+      
+    
+    </summary>
+    
+    
+      <category term="Research" scheme="http://zhangshuai2020.github.io/tags/Research/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>My Gallery</title>
+    <link href="http://zhangshuai2020.github.io/2019/08/31/2019-08-31My-Gallery/"/>
+    <id>http://zhangshuai2020.github.io/2019/08/31/2019-08-31My-Gallery/</id>
+    <published>2019-08-31T02:46:12.000Z</published>
+    <updated>2019-09-01T15:57:28.705Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>What makes life beautiful</title>
+    <link href="http://zhangshuai2020.github.io/2019/08/31/2019-08-31What-makes-life-beautiful/"/>
+    <id>http://zhangshuai2020.github.io/2019/08/31/2019-08-31What-makes-life-beautiful/</id>
+    <published>2019-08-31T02:38:08.000Z</published>
+    <updated>2019-09-01T15:57:28.705Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Current-Situation"><a href="#Current-Situation" class="headerlink" title="Current Situation"></a>Current Situation</h1><h2 id="Material-matters-but-not-the-goal"><a href="#Material-matters-but-not-the-goal" class="headerlink" title="Material matters but not the goal"></a>Material matters but not the goal</h2><p>We are living in a better condition than decades ago. Although there are conflicts around the world, we have rather developed technology and service system. We are seeking a rather happy life. The life is colorful and multivariate.</p><h1 id="What-is-the-truth-of-our-life"><a href="#What-is-the-truth-of-our-life" class="headerlink" title="What is the truth of our life"></a>What is the truth of our life</h1><h1 id="Basic-elements-and-beyond"><a href="#Basic-elements-and-beyond" class="headerlink" title="Basic elements and beyond"></a>Basic elements and beyond</h1><blockquote><p>NEW: DevDocs now comes with syntax highlighting. <a href="http://devdocs.io" target="_blank" rel="noopener">http://devdocs.io</a></p><footer><strong>@DevDocs</strong><cite><a href="https://twitter.com/devdocs/status/356095192085962752" target="_blank" rel="noopener">twitter.com/devdocs/status/356095192085962752</a></cite></footer></blockquote><h1 id="To-conclude"><a href="#To-conclude" class="headerlink" title="To conclude"></a>To conclude</h1><p>All in all, we are more likely to be happy than before, but we must cherish all we have and find out what is the best position in the world and our contributions.</p><h2 id="在文章中插入Pull-quote"><a href="#在文章中插入Pull-quote" class="headerlink" title="在文章中插入Pull quote"></a>在文章中插入Pull quote</h2><blockquote class="pullquote [class]"><p>content</p></blockquote><h2 id="在文章中嵌入jsFiddle"><a href="#在文章中嵌入jsFiddle" class="headerlink" title="在文章中嵌入jsFiddle"></a>在文章中嵌入jsFiddle</h2><iframe scrolling="no" width="[width]" height="[height]" src="//jsfiddle.net/shorttag/embedded/[tabs]/[skin]" frameborder="0" allowfullscreen></iframe><h2 id="在文章中嵌入Gist"><a href="#在文章中嵌入Gist" class="headerlink" title="在文章中嵌入Gist"></a>在文章中嵌入Gist</h2><script src="//gist.github.com/gist_id.js?file=[filename]"></script><h2 id="在文章中插入-iframe"><a href="#在文章中插入-iframe" class="headerlink" title="在文章中插入 iframe"></a>在文章中插入 iframe</h2><iframe src="url" width="[width]" height="[height]" frameborder="0" allowfullscreen></iframe><h2 id="在文章中插入指定大小的图片"><a href="#在文章中插入指定大小的图片" class="headerlink" title="在文章中插入指定大小的图片"></a>在文章中插入指定大小的图片</h2><img src="/uploads/wechat-qrcode.jpg" class="[class names]" title="[width] [height] title text " alt="wechat platform"><h2 id="插入链接"><a href="#插入链接" class="headerlink" title="插入链接"></a>插入链接</h2><a>text url [zhangshuai2020.github.io] [我的博客]</a>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Current-Situation&quot;&gt;&lt;a href=&quot;#Current-Situation&quot; class=&quot;headerlink&quot; title=&quot;Current Situation&quot;&gt;&lt;/a&gt;Current Situation&lt;/h1&gt;&lt;h2 id=&quot;Mater
+      
+    
+    </summary>
+    
+      <category term="Life, Thoughts" scheme="http://zhangshuai2020.github.io/categories/Life-Thoughts/"/>
+    
+      <category term="Thesis" scheme="http://zhangshuai2020.github.io/categories/Life-Thoughts/Thesis/"/>
+    
+    
+      <category term="life" scheme="http://zhangshuai2020.github.io/tags/life/"/>
+    
+      <category term="happy" scheme="http://zhangshuai2020.github.io/tags/happy/"/>
+    
+      <category term="social" scheme="http://zhangshuai2020.github.io/tags/social/"/>
+    
+  </entry>
   
   <entry>
     <title>Think more about people around us</title>
@@ -30,27 +119,6 @@
       
       
         &lt;h1 id=&quot;What-make-us-happy-is-our-contribution-to-the-society&quot;&gt;&lt;a href=&quot;#What-make-us-happy-is-our-contribution-to-the-society&quot; class=&quot;heade
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://zhangshuai2020.github.io/2019/08/27/hello-world/"/>
-    <id>http://zhangshuai2020.github.io/2019/08/27/hello-world/</id>
-    <published>2019-08-27T07:07:59.092Z</published>
-    <updated>2019-08-27T07:07:59.092Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
       
     
     </summary>

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zhangshuai2020.github.io/"/>
-  <updated>2019-09-01T15:57:28.707Z</updated>
+  <updated>2019-11-23T02:21:31.044Z</updated>
   <id>http://zhangshuai2020.github.io/</id>
   
   <author>
@@ -15,6 +15,41 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>resources</title>
+    <link href="http://zhangshuai2020.github.io/2019/11/23/resources/"/>
+    <id>http://zhangshuai2020.github.io/2019/11/23/resources/</id>
+    <published>2019-11-23T02:20:27.000Z</published>
+    <updated>2019-11-23T02:21:31.044Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Resources-for"><a href="#Resources-for" class="headerlink" title="Resources for"></a>Resources for</h1><p><a href="https://iutam.org" target="_blank" rel="noopener">https://iutam.org</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Resources-for&quot;&gt;&lt;a href=&quot;#Resources-for&quot; class=&quot;headerlink&quot; title=&quot;Resources for&quot;&gt;&lt;/a&gt;Resources for&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://iutam.org
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>post</title>
+    <link href="http://zhangshuai2020.github.io/2019/11/23/post/"/>
+    <id>http://zhangshuai2020.github.io/2019/11/23/post/</id>
+    <published>2019-11-23T02:20:11.000Z</published>
+    <updated>2019-11-23T02:20:11.952Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
